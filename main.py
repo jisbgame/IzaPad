@@ -122,7 +122,7 @@ class Notepad(QMainWindow):
                           "Nome do Programa: IzaPad\n"
                           "Versão: 1.0\n"
                           "Autor: Israel Batista\n"
-                          "Código Fonte: https://github.com/seu_nome/notepad")
+                          "Código Fonte: https://github.com/jisbgame/IzaPad")
 
 def main():
     app = QApplication(sys.argv)
